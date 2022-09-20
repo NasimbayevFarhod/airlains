@@ -1,0 +1,24 @@
+body
+{
+  width: 100%;
+  height: 100vh;
+  background-image: url(../22.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.iert__main
+{
+  padding-top: 30vh;
+}
+
+.span
+{
+  padding: 30px 10px;
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(44, 56, 96, 0.463);
+  color:rgb(255, 255, 255);
+}
+
