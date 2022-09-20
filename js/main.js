@@ -47,10 +47,10 @@ let span = document.querySelector(".span");
     span.innerHTML =  ("Oq yo'l dostim")
   }
 
-  if (pul == null) 
-  {
-    span.innerHTML =  ("Siz malumot kiritmadingiz saytni yangilab mablag'ingizni tog'ri kiriting")
-  }
+  // if (pul == null) 
+  // {
+  //   span.innerHTML =  ("Siz malumot kiritmadingiz saytni yangilab mablag'ingizni tog'ri kiriting")
+  // }
 
   // if (typeof(pul) == String) 
   // {
